@@ -52,10 +52,6 @@
 ![image](https://user-images.githubusercontent.com/105617383/186752799-87f81e21-6af5-4d8b-80fd-a97386cf51dc.png)
 
 
-![image](https://user-images.githubusercontent.com/105671763/186751138-ddb6ecc2-fc52-43e4-aa0d-b84ac96a6fb4.png)
-
-
-
 # 4.COMPARACIÓN DE RESULTADOS
 
 
