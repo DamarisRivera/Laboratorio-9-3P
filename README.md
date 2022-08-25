@@ -51,6 +51,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/105671763/186749709-d5711c42-7ec5-4ad9-b9ea-8822bdd53f2f.png)
 
 
 # 4.COMPARACIÓN DE RESULTADOS
