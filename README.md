@@ -31,7 +31,7 @@
 
 
 
-**9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:***
+**9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
 
 ![image](https://user-images.githubusercontent.com/105617383/186734026-e5cbba93-0c23-40ea-b1c2-1852513edaed.png)
 
