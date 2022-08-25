@@ -18,6 +18,37 @@
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO 
 
+**Material y equipo requerido** 
+
+![image](https://user-images.githubusercontent.com/105617383/186733545-97eba84c-afad-4ab4-a64e-e0f912f97089.png)
+
+**9.5.1. Sin emplear calculadora. Transforme a su forma polar:**
+
+![image](https://user-images.githubusercontent.com/105617383/186733925-8393a5a9-319e-4c1d-9b16-b297d970a3cc.png)
+
+
+
+
+
+
+**9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:***
+
+![image](https://user-images.githubusercontent.com/105617383/186734026-e5cbba93-0c23-40ea-b1c2-1852513edaed.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186734592-ef009959-d7a4-4ee2-b125-c582a053e39b.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186734614-bdafde97-e3d7-4a24-8254-f5dc46fe361d.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186734636-ea39b1c9-775c-4758-bc16-a18ca52ac9a7.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186734667-4adb948e-1520-45a2-8daf-f466e07a3c65.png)
+
+9.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/105617383/186734328-fa7e58a6-d3ff-400e-b9f8-07db5e7cbdf1.png)
+
+
+
 
 
 # 4.COMPARACIÓN DE RESULTADOS
