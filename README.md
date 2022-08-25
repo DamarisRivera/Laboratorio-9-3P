@@ -51,6 +51,8 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/186752799-87f81e21-6af5-4d8b-80fd-a97386cf51dc.png)
 
+# 4.COMPARACIÓN DE RESULTADOS
+
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
 ![image](https://user-images.githubusercontent.com/105617383/186759058-d3fe19a6-1010-4ec7-8318-6d84ff4281fb.png)
@@ -85,12 +87,7 @@
 ![image](https://user-images.githubusercontent.com/105617383/186759419-9613c01d-3334-44f2-ae00-237435c573b2.png)
 
 
-# 4.COMPARACIÓN DE RESULTADOS
-
-
-
 # 5.VIDEO
-
 
 
 # 6.CONCLUSIONES
