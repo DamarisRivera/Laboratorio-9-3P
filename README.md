@@ -53,7 +53,36 @@
 
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
+![image](https://user-images.githubusercontent.com/105617383/186759058-d3fe19a6-1010-4ec7-8318-6d84ff4281fb.png)
 
+![image](https://user-images.githubusercontent.com/105617383/186759074-7b67918e-12f8-41aa-9d5c-c2e9af66a442.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759086-a41956ca-64d8-4a37-a7dd-e372743ff26f.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759100-9bc57418-04b6-44e0-bfb8-6f8f902de34d.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759126-8aad038d-ad74-44e7-bc0b-b0ee6a3ac4dd.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759146-299ff575-afd2-40e7-ad2a-0b4b5a4c4095.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759162-6697db06-7849-43d7-b8f9-8a4cb1707f7a.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759183-ef3dac09-b14d-4195-bb93-56b5417e9177.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759212-4b7268c4-ac70-4642-82de-892d78b90a76.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759235-9b55f757-e099-45ce-b749-022d39367b7e.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759262-126467c7-5d84-40ee-a6d3-d5f037d8d40b.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759293-d096b1fa-a493-4de8-b1e3-c8985be5bfef.png)
+![image](https://user-images.githubusercontent.com/105617383/186759302-90857d11-66e9-447d-8f10-e0b337771506.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759335-8316ed19-d83d-4640-bf3e-df321d61e2fd.png)
+![image](https://user-images.githubusercontent.com/105617383/186759364-e1879dcc-873b-4d26-bfa2-2b7d4763a858.png)
+
+![image](https://user-images.githubusercontent.com/105617383/186759390-79de0096-fb37-4ccf-8595-29622a8f7ca4.png)
+![image](https://user-images.githubusercontent.com/105617383/186759419-9613c01d-3334-44f2-ae00-237435c573b2.png)
 
 
 # 4.COMPARACIÓN DE RESULTADOS
